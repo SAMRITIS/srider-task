@@ -1,0 +1,35 @@
+{
+  "coord": { "lon": -0.12, "lat": 51.5 },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 290.06,
+    "feels_like": 288.98,
+    "temp_min": 288.24,
+    "temp_max": 291.37,
+    "pressure": 1032,
+    "humidity": 45
+  },
+  "visibility": 10000,
+  "wind": { "speed": 5.14, "deg": 80 },
+  "clouds": { "all": 100 },
+  "dt": 1648212568,
+  "sys": {
+    "type": 2,
+    "id": 268730,
+    "country": "GB",
+    "sunrise": 1648187524,
+    "sunset": 1648232447
+  },
+  "timezone": 0,
+  "id": 2634341,
+  "name": "City of Westminster",
+  "cod": 200
+}
